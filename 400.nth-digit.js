@@ -9,8 +9,5 @@
  * @param {number} n
  * @return {number}
  */
-var findNthDigit = function(n) {
-    
-};
+var findNthDigit = function (n) {};
 // @lc code=end
-
